@@ -1,0 +1,139 @@
+.img1 {
+  width: 70%;
+  height: 100%;
+  float: right;
+}
+body {
+  margin: 0%;
+}
+.header {
+  width: 100%;
+  height: 100px;
+  background-color: #ffffff;
+  position: fixed;
+}
+.space {
+  width: 100%;
+  height: 100px;
+}
+.brandname {
+  width: 20%;
+  height: 18.1042px;
+  background-color: #ffffff;
+  float: left;
+  margin-top: 62px;
+}
+.signupBox {
+  float: right;
+  height: 35%;
+  width: 17%;
+  margin-top: 50px;
+  margin-right: 60px;
+  display: flex;
+}
+.button1 {
+  background-color: #ffffff;
+  border: none;
+  color: #576871;
+  align-items: center;
+}
+.button2 {
+  background-color: #ffffff;
+  border: 1px solid #576871;
+  color: #576871;
+  border-radius: 2px;
+  align-items: center;
+}
+.a {
+  color: #39424e;
+  text-decoration: none;
+  font-weight: 400;
+  font-family: "Open Sans", sans-serif;
+  font-size: 1.167em;
+  padding: 0.429em 1.429em;
+}
+section {
+  background-color: #ffff;
+  width: 100%;
+  height: 500px;
+}
+.section1 {
+  height: 500px;
+  width: 50%;
+  float: left;
+}
+.section2 {
+  float: left;
+  height: 500px;
+  width: 50%;
+  background-color: #ffffff;
+  background: url(./image1.svg);
+  background-size: cover;
+}
+.heading {
+  font-size: 40.001px;
+  letter-spacing: -0.036em;
+  font-family: "Open Sans", sans-serif;
+  font-weight: 300;
+  margin-top: 40px;
+  margin-left: 70px;
+}
+.span1 {
+  color: #738f93;
+}
+.forcompanies {
+  margin-left: 71px;
+}
+
+.head1 {
+  font-family: "Source Code Pro", monospace;
+  color: #39424e;
+  font-size: 27.001px;
+  font-weight: 700;
+}
+.content1 {
+  font-weight: 400;
+  color: #576871;
+  font-family: "Source Code Pro", sans-serif;
+}
+.sectionButton1 {
+  background-color: rgb(27, 169, 76);
+  box-shadow: rgba(27, 169, 76, 0.5) 0px 4px 12px 0px;
+  margin-top: 32px;
+  padding: 15px 25px;
+  border: none;
+  border-radius: 3px;
+  font-family: "Source Code Pro", monospace;
+  font-size: 18.005px;
+  color: #ffff;
+  font-weight: 700;
+}
+.sectionButton2 {
+  background-color: #ffff;
+  margin-top: 32px;
+  padding: 15px 25px;
+  border: 1px solid;
+  border-radius: 3px;
+  font-family: "Source Code Pro", monospace;
+  font-size: 18.005px;
+  color: rgb(50, 199, 102);
+  font-weight: 700;
+}
+.student {
+  margin-left: 40px;
+}
+.foot {
+  margin-left: 74px;
+  width: auto;
+  height: 600px;
+  font-family: "Source Code Pro", sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+}
+.lastPara {
+  font-size: 0.923em;
+  color: #576871;
+}
+.seperate {
+  display: flex;
+}
